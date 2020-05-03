@@ -4,10 +4,32 @@
   
   <url>
     <loc>https://blog.sherlock.pink/</loc>
+    <lastmod>2020-05-02T17:37:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sherlock.pink/tags/longform/</loc>
+    <lastmod>2020-05-02T17:37:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sherlock.pink/posts/</loc>
+    <lastmod>2020-05-02T17:37:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sherlock.pink/tags/security/</loc>
+    <lastmod>2020-05-02T17:37:19+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.sherlock.pink/tags/</loc>
+    <lastmod>2020-05-02T17:37:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sherlock.pink/posts/mindset/</loc>
+    <lastmod>2020-05-02T17:37:19+01:00</lastmod>
   </url>
   
 </urlset>

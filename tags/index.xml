@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is free to reference, just please credit me.</copyright>
+    <lastBuildDate>Sat, 02 May 2020 17:37:19 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.sherlock.pink/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>longform</title>
+      <link>https://blog.sherlock.pink/tags/longform/</link>
+      <pubDate>Sat, 02 May 2020 17:37:19 +0100</pubDate>
+      
+      <guid>https://blog.sherlock.pink/tags/longform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://blog.sherlock.pink/tags/security/</link>
+      <pubDate>Sat, 02 May 2020 17:37:19 +0100</pubDate>
+      
+      <guid>https://blog.sherlock.pink/tags/security/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
